@@ -175,7 +175,7 @@ header nav li:last-child{
 @media (max-width: 500px){
 
 	.background{
-		min-height: 300px;
+		min-height: 250px;
 	}
 }
 
