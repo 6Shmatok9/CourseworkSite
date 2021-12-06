@@ -250,9 +250,15 @@ header nav li:last-child{
 	.profile{
 		top:70%;
 	}
+	.name:hover >.profile{
+		right:0%;	
+  	}
 	.image{
 		top:70%;
 	}
+	.name:hover >.image{
+		left:0%;	
+  	}
 }
 
 .films{
